@@ -13,7 +13,7 @@ python SIALXD.py
 
 
 <div align="center">
-  <img src="SIALZADA/SIAL.png">
+  <img src="/SIALZADA/SIAL.png">
   <br>
   <br>
   <p>
